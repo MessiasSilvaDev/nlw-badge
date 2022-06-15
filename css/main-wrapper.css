@@ -1,0 +1,27 @@
+.main-wrapper {
+    max-width: 25rem;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+
+    color: var(--gray);
+}
+
+.main-wrapper .avatar {
+    width: 16rem;
+    margin: 18.4rem auto 0;
+}
+
+.main-wrapper .avatar .positionStamp {
+    position: absolute;
+    top: -1.5rem;
+    z-index: 1;
+}
+
+.main-wrapper .avatar #userImage {
+    width: 16rem;
+    height: 18rem;
+    object-fit: cover;
+
+    clip-path: polygon(50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%, 0 25%);
+}
