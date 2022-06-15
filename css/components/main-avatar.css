@@ -1,6 +1,7 @@
 .main-avatar {
   width: 16rem;
-  margin: 18.4rem auto 0;
+  margin: 0 auto;
+  position: relative;
 }
 
 .main-avatar .positionStamp {
