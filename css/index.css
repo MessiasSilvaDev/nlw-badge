@@ -2,11 +2,3 @@
   --black: hsl(240, 6%, 13%);
   --gray: hsl(240, 9%, 89%);
 }
-
-ul {
-  margin-top: 6.4rem;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 0.8rem;
-}
