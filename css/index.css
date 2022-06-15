@@ -1,36 +1,12 @@
 :root {
-    --black: hsl(240, 6%, 13%);
-    --gray: hsl(240, 9%, 89%);
-}
-
-h1 {
-    font-size: 2.4rem;
-
-    margin-top: 2.4rem;
-}
-
-a {
-    display: inline-block;
-    color: var(--gray);
-    text-decoration: none;
-    margin-top: 0.4rem;
-    font-size: 1.6rem;
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 1.2rem;
-}
-
-p {
-    margin-top: 3.2rem;
-    font-size: 1.6rem;
+  --black: hsl(240, 6%, 13%);
+  --gray: hsl(240, 9%, 89%);
 }
 
 ul {
-    margin-top: 6.4rem;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 0.8rem;
+  margin-top: 6.4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.8rem;
 }

@@ -1,21 +1,22 @@
 * {
-    margin: 0;
-    list-style: none;
-    padding: 0;
+  margin: 0;
+  list-style: none;
+  padding: 0;
+  text-decoration: none;
 }
 
 html,
 body {
-    height: 100%;
-    font-family: 'Roboto', sans-serif;
-    -webkit-font-smoothing: antialiased;
+  height: 100%;
+  font-family: 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
 }
 
 html {
-    font-size: 62.5%;
+  font-size: 62.5%;
 }
 
 body {
-    display: grid;
-    place-items: center;
+  display: grid;
+  place-items: center;
 }

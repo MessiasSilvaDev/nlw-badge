@@ -1,0 +1,9 @@
+.main-section {
+  background-image: url(../../assets/images/background.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100vw;
+  min-height: 81.2rem;
+  height: 100vh;
+}
