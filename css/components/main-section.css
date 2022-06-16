@@ -1,17 +1,14 @@
 .main-section {
-  background-image: url(../../assets/images/background.svg) no-repeat center/cover;
+  background: url(../../assets/images/background.svg) no-repeat center/cover;
   width: 100vw;
   min-height: 81.2rem;
   height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 @media (min-width: 768px) {
-  .main-section {
-    background: #000 url(../../assets/images/desktop.svg) no-repeat center/cover;
-  }
-}
-
-@media (min-width: 1024px) {
   .main-section {
     background: #000 url(../../assets/images/desktop.svg) no-repeat center/cover;
   }

@@ -1,6 +1,5 @@
 .main-wrapper {
   max-width: 25rem;
-  margin: 17.8rem auto 0;
   text-align: center;
 
   color: var(--gray);
@@ -32,17 +31,5 @@
 @media (min-width: 768px) {
   .main-wrapper {
     max-width: 37rem;
-    margin: 14rem auto 0;
-    padding-top: 7.8rem;
-    padding-bottom: 5rem;
-    background: url(../../assets/images/background.svg) no-repeat center/cover;
-  }
-}
-
-@media (min-width: 1024px) {
-  .main-wrapper {
-    max-width: 37rem;
-    margin: 14rem auto 0;
-    padding-top: 11rem;
   }
 }
